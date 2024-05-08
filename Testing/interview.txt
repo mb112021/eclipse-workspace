@@ -1,0 +1,5 @@
+Given an array of integers, output an array of equal length such that the value at each index is equal to the product of every other index value in the original array.
+
+One of the technical questions was the knapsack problem
+
+
